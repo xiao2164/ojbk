@@ -265,11 +265,11 @@ document.addEventListener('DOMContentLoaded', function () {
         // 例如：['a.mp3','b.mp3','c.mp3','d.mp3']
         // 只会随机选择 3 首
         var allSongs = [
-            '我怀念的.mp3',
-            '借口.mp3',
-            '你听得到.mp3',
             '爱你没差.mp3',
+            '借口.mp3',
+            '你听得到.mp3',     
             '晴天.mp3',
+            '我怀念的.mp3',
             '我走后.mp3',
             '烟花易冷.mp3',
             '勇气.mp3',
