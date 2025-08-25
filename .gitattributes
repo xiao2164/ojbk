@@ -1,1 +1,4 @@
+*.mp3 binary
+*.mp3 -text
+*.mp3 -diff
 yinyue/* filter=lfs diff=lfs merge=lfs -text
